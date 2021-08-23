@@ -18,6 +18,15 @@ print(encrypted)
 decrypted = packtor.decrypte(encrypted)
 print(decrypted)
 ```
+or :
+```bash
+$ python packtor.py init
+$ echo Hello World > h.txt
+$ python packtor.py encryptf h.txt
+  ...
+$ python packtor.py decryptf cache/output_encrypt.txt
+  ...
+```
 
 ## License
 **MIT**
