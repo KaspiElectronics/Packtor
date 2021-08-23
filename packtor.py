@@ -86,7 +86,7 @@ def encrypt(text,file=False):
         else : output += algorithm[t]
 
     # write encryption data to a file
-    with open("output_encrypt.txt","w") as fout :
+    with open("cache/output_encrypt.txt","w") as fout :
         fout.write(output)
     
     return output
