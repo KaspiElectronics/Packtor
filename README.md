@@ -1,5 +1,5 @@
 # Packtor
-**Packtor** is a simple and modern encryptation based on a hand written algorithm.
+**Packtor** is a simple and modern encryption Libray\CLI based on a hand written algorithm.
 
 ## Example
 ```py
