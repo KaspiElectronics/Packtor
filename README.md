@@ -18,3 +18,6 @@ print(encrypted)
 decrypted = packtor.decrypte(encrypted)
 print(decrypted)
 ```
+
+## License
+**MIT**
