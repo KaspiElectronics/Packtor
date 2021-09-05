@@ -25,11 +25,11 @@ print(decrypted)
 ```
 or :
 ```bash
-$ python packtor.py init
+$ python -m packtor.packtor.py init
 $ echo Hello World > h.txt
-$ python packtor.py encryptf h.txt
+$ python packtor.packtor.py encryptf h.txt
   ...
-$ python packtor.py decryptf cache/output_encrypt.txt
+$ python packtor.packtor.py decryptf cache/output_encrypt.txt
   ...
 ```
 
