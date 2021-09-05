@@ -3,7 +3,7 @@
 
 ## Install Packtor
 ```
-pip install git+https:///github.com/KaspiElectronics/Packtor.git
+pip install git+https://github.com/KaspiElectronics/Packtor.git
 ```
 
 ## Example
