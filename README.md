@@ -1,9 +1,14 @@
 # Packtor
 **Packtor** is a simple and modern encryption Libray\CLI based on a hand written algorithm.
 
+## Install Packtor
+```
+pip install git+https://KaspiElectronics/Packtor.git
+```
+
 ## Example
 ```py
-import packtor
+from packtor import packtor
 text = "Hello World"
 
 # create a random algorithm
